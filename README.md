@@ -3,7 +3,9 @@
 
 Excel: https://1drv.ms/x/s!AgWuMp-n2Drdgkts8rjY0NLNnxCD?e=iydUvY&nav=MTVfezAwMDAwMDAwLTAwMDEtMDAwMC0wMjAwLTAwMDAwMDAwMDAwMH0
 
-# Short Description: This project involved the development of an interactive sales dashboard in Excel. Leveraging pivot tables, charts, and conditional formatting, the dashboard provides a dynamic overview of sales performance across various dimensions, including sales by month, state, product, salesperson, and customer. Interactive features, such as state-based filtering, enable users to explore data and gain valuable insights into sales trends and performance. The dashboard is designed to be refreshed with new data updates, ensuring the information remains current and relevant.
+# Short Description: 
+
+This project involved the development of an interactive sales dashboard in Excel. Leveraging pivot tables, charts, and conditional formatting, the dashboard provides a dynamic overview of sales performance across various dimensions, including sales by month, state, product, salesperson, and customer. Interactive features, such as state-based filtering, enable users to explore data and gain valuable insights into sales trends and performance. The dashboard is designed to be refreshed with new data updates, ensuring the information remains current and relevant.
 
 <img width="1094" alt="image" src="https://github.com/user-attachments/assets/4afba4fb-a18b-4388-8dca-b1f068e6fc6c" />
 
