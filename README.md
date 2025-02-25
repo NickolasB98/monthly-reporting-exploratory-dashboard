@@ -116,7 +116,7 @@ The project utilizes a [sales dataset](https://1drv.ms/x/s!AgWuMp-n2Drdgkts8rjY0
 
 **Category 5: Count of Transactions**
 
-**Main Insight 1: Transaction Count Distribution**
+**Main Insight: Transaction Count Distribution**
 
 - **Finding:** The majority of transactions fall within the 0-1000 range, with a significant number in the 1000-2000 range.
 - **Supporting Data:** The bar chart shows the highest bars in the 0-1000 and 1000-2000 ranges.
@@ -124,7 +124,7 @@ The project utilizes a [sales dataset](https://1drv.ms/x/s!AgWuMp-n2Drdgkts8rjY0
 
 **Category 6: Top 5 by Category**
 
-**Main Insight 1: Category Revenue Comparison**
+**Main Insight: Category Revenue Comparison**
 
 - **Finding:** Beverages and Sauces are the top-performing categories in terms of revenue.
 - **Supporting Data:** The bar chart shows Beverages and Sauces with the highest bars.
@@ -132,7 +132,7 @@ The project utilizes a [sales dataset](https://1drv.ms/x/s!AgWuMp-n2Drdgkts8rjY0
 
 **Category 7: Revenue by State**
 
-**Main Insight 1: Dominant States**
+**Main Insight: Dominant States**
 
 - **Finding:** NSW and QLD are the dominant states in terms of revenue.
 - **Supporting Data:** The chart shows the highest percentages for NSW and QLD.
@@ -140,7 +140,7 @@ The project utilizes a [sales dataset](https://1drv.ms/x/s!AgWuMp-n2Drdgkts8rjY0
 
 **Category 8: Sales by Payment Type**
 
-**Main Insight 1: Credit Card Dominance**
+**Main Insight: Credit Card Dominance**
 
 - **Finding:** Credit Card is the most preferred payment type.
 - **Supporting Data:** The chart shows the highest value for Credit Card.
